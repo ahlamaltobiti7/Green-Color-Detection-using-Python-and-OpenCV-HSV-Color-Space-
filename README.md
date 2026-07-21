@@ -74,11 +74,8 @@ The program was tested using **two different green objects** to verify the accur
 
 A short video demonstrating the real-time detection of green objects using the webcam is included in this repository.
 
-https://github.com/user-attachments/assets/green%20colour%20detection%20vid%20(1).mp4
+ [`green colour detection vid (1).mp4`](./green%20colour%20detection%20vid%20(1).mp4)
 
-> **Note:** You can also view or download the demonstration video file directly from the repository: [`green colour detection vid (1).mp4`](./green%20colour%20detection%20vid%20(1).mp4)
-
----
 
 ---
 
