@@ -20,6 +20,16 @@ The captured frames are converted from **BGR to HSV**, then a color mask is crea
 
 ---
 
+## Repository Structure
+
+* `color_detection.py` - The main Python script for real-time color detection.
+* `obj1.png` - Test image for Object 1 detection result.
+* `obj2.png` - Test image for Object 2 detection result.
+* `green colour detection vid (1).mp4` - Video demonstration of the project.
+* `README.md` - Project documentation.
+
+---
+
 ##  Tools and Technologies
 
 - Python
@@ -52,17 +62,23 @@ The program was tested using **two different green objects** to verify the accur
 
 ### Object 1
 
-*(Insert Image Here)*
+![Object 1](obj1.png)
 
 ### Object 2
 
-*(Insert Image Here)*
+![Object 2](obj2.png)
 
 ---
 
-## 📹 Demonstration
+##  Demonstration
 
 A short video demonstrating the real-time detection of green objects using the webcam is included in this repository.
+
+https://github.com/user-attachments/assets/green%20colour%20detection%20vid%20(1).mp4
+
+> **Note:** You can also view or download the demonstration video file directly from the repository: [`green colour detection vid (1).mp4`](./green%20colour%20detection%20vid%20(1).mp4)
+
+---
 
 ---
 
